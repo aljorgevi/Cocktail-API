@@ -1,7 +1,6 @@
 # Cocktail Heaven
-## Website of Cocktail recipes
-## Getting Started
 
+## Website of Cocktail recipes
 
 Hi there! 👋 This is the repo for a simple searchable library of cocktails.
 It was developed using React, Fetch API and the [thecocktaildb](https://www.thecocktaildb.com/) API. The site is hosted on Netlify.

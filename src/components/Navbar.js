@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../Cocktails.svg';
+import logo from '../assets/images/Cocktails.svg';
+
 export default function Navbar() {
   return (
     <nav className="navbar">

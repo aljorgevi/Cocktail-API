@@ -224,8 +224,8 @@ Cocktails List
   margin-top: 1rem;
 }
 .cocktails-center {
-  width: var(--smallWidth);
   margin: 0 auto;
+  width: var(--smallWidth);
   max-width: var(--fullWidth);
   display: grid;
   row-gap: 2rem;
